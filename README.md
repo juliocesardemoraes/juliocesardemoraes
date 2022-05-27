@@ -46,7 +46,7 @@
     <tr>
       <td><a href="https://github.com/juliocesardemoraes/Portfolio"><b>Portfolio</b></a></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/juliocesardemoraes/Portfolio?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white"/><img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />  <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" /></td>
+      <td><img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white"/></td>
       <td>2~3 Months</td>
       <td><a href="https://portfolio-red-eta.vercel.app/en">Portfolio</a></td>
       <td>:white_check_mark:</td>
@@ -108,7 +108,7 @@
     <tr>
       <td><a href="https://github.com/juliocesardemoraes/Portfolio"><b>Portfolio</b></a></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/juliocesardemoraes/Portfolio?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white"/><img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />  <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" /></td>
+      <td><img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white"/></td>
       <td>2~3 Months</td>
       <td><a href="https://portfolio-red-eta.vercel.app/en">Portfolio</a></td>
       <td>:white_check_mark:</td>
