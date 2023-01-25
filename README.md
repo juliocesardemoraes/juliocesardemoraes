@@ -1,6 +1,6 @@
 <h2>Welcome/ Bem vindo</h2>
 
-<h2>Hi there, I'm a fullstack developer, focusing mostly on frontend development. 👋</h2>
+<h3>Hi there, I'm a fullstack developer, focusing mostly on frontend development. 👋</h3>
 
 <h3>My Github stats</h3>
 
