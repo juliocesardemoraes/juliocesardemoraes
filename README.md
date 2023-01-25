@@ -10,6 +10,11 @@
 </ul>
 <br />
 
+
+[![Julio Moraes Github States](https://github-readme-stats.vercel.app/api?username=juliocesardemoraes&show_icons=true&theme=dracula)](https://github.com/juliocesardemoraes/github-readme-stats)
+
+
+
 <h1 id="english">Hi there, I'm a fullstack developer, focusing mostly on frontend development. 👋</h1>
 <h3>Technologies I use for coding</h3>
 <p>
