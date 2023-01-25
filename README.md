@@ -66,13 +66,4 @@
 
 <p><a href="https://www.linkedin.com/in/julio-cesar-de-moraes/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
-
-<br />
-<br />
-
 </table>
-
-<h3>Contato</h3>
-
-<p><a href="https://www.linkedin.com/in/julio-cesar-de-moraes/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-</p>
