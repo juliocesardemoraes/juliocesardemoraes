@@ -1,7 +1,12 @@
 <h2>Welcome/ Bem vindo</h2>
 
-<h3>Hi there, I'm a fullstack developer, focusing mostly on frontend development. 👋</h3>
+<h3>Hi there, I'm a professional fullstack developer. My expertise relies on React.js and node.js</h3>
 
+<h3>Companies I work for</h3>
+<ul>
+  <li>Zoop - Fullstack developer (Reactjs/nodejs/python)</li>
+  <li>Escola Dnc  - Mentor/Facilitator/Cohost</li>
+</ul>
 <h3>My Github stats</h3>
 
 [![Julio Moraes Github States](https://github-readme-stats.vercel.app/api?username=juliocesardemoraes&show_icons=true&theme=dracula)](https://github.com/juliocesardemoraes/github-readme-stats)
@@ -19,7 +24,6 @@
   <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
   <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
   <img alt="Insomnia" src="https://img.shields.io/badge/-Insomnia-5849BE?style=flat-square&logo=insomnia&logoColor=white" />
-  <img alt="Heroku" src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white" />
   <img alt="redux" src="https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white" />
   <img alt="Sass" src="https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white" />
   <img alt="Styled Components" src="https://img.shields.io/badge/-Styled_Components-db7092?style=flat-square&logo=styled-components&logoColor=white" />
