@@ -2,12 +2,6 @@
 
 <h3>Hi there, I'm a professional fullstack developer. My expertise relies on React.js and node.js</h3>
 
-<h3>Companies I work for</h3>
-<ul>
-  <li>Zoop - Fullstack developer (Reactjs/nodejs/python)</li>
-</ul>
-
-
 <h3>Technologies I use for coding</h3>
 <p>
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
